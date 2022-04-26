@@ -413,7 +413,7 @@ section {
 div .jumbotron {
     margin-left: -92px;
     margin-bottom: -3px;
-    width: 100%;
+    width: auto;
 }
 
 .lead {
